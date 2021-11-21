@@ -1,3 +1,5 @@
+# http://progra.usm.cl/apunte/ejercicios/1/numero-invertido.html
+
 def invert_number(num):
   result = ''
   length = len(str(num))

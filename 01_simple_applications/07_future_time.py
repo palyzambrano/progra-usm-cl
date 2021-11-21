@@ -1,3 +1,5 @@
+# http://progra.usm.cl/apunte/ejercicios/1/hora-futura.html
+
 hours_now = int(input('Hora actual: '))
 hours_to_add = int(input('Cantidad de horas: '))
 time_then = ((hours_now + hours_to_add) % 12) % 12
