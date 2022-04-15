@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">program-usm-cl</h1>
+  <h1 align="center">progra-usm-cl</h1>
   <h4 align="center">
     JavaScript (NodeJS) implementation of programming exercises from Chile's
     "Santa Maria" University (USM)
